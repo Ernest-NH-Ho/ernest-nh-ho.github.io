@@ -1,0 +1,89 @@
+General style:
+Arial. Text size = 12. Titles are bold. Quotes are italic. Title size  = 14.
+All hyperlink should open a new page (new html and css) in the same tab
+For body, left and right should have roughly 5 cm margin each
+
+Top banner (background is FCE6FA)
+
+Buttons are on the bottom of the top banner
+About | Publication List | Skill | Photo | Repo
+----------------------------------------------------------- below buttons is a solid line.
+Scroll down should always preserve the top bar
+The text inside the button of the current page is bold + underlined.
+
+Content of "About"
+Top left is my face "Face_formal_framed_ErnestHo_centered.jpg". 
+Right of my face is my personal info. 
+Ernest Ngai Hei Ho (何藝曦)
+He / Him
+Email: hoernesta@gmail.com
+
+**A passionated academic looking for post-doc positions** in bold and italic
+
+
+"One may go wrong in many different ways, but right only in one, which is why it is easy to fail and difficult to succeed."
+Aristotle
+
+"Claiming 1+1=3 or 1+1=4 is not a sign of creativity. True creators make real changes with 1+1=2"
+Ernest Ho
+
+I used to study oceanography. Currently, I am a machine learning scientist in biomolecule design. 
+
+I love jogging, swimming, playing musical instruments, and making friends.
+
+I enjoy playing with ESM2 and ESM3 since 2023. They are so great!!!
+
+
+Content of "Publication List", include doi, but Chloroplast Transit Peptide do not need doi. bold my name.
+
+State this first 
+When I was an undergraduate student, my lecturer taught me:
+"Forget all the tricks about how to avoid plagiarism. The best way to write a paper is to write a paper out of your mind."
+
+Today, I just replace "plagiarism" with "hallucinating references".
+Don't get me wrong. LaTeX and GPTs are both great!!
+
+
+Machine Learning and Biochemistry
+- Ernest Ho, N.H., Yang, C.T., Ng, I.S. and Chang, J.S., HEIWA: Hybrid Explicit–Implicit Water Attention Affects Force Field Accuracy in Structure-Based Protein Language Model ESM3. Journal of Chemical Information and Modeling.
+Ho, N.H.E., Ng, I.S. and Chang, J.S., 2026. One-shot Evaluation of Protein Mutability and Epistasis Score Using Structure-Based Model ESM3. Journal of the Taiwan Institute of Chemical Engineers, 179, p.106413.
+- Diankristanti, P.A., Ho, N.H.E., Chen, J.H., Nagarajan, D., Chen, C.Y., Hsieh, Y.M., Ng, I.S., Chang, J.S. (2024). Unlocking the potential of microalgae as sustainable bioresources from up to downstream processing: A critical review. Chem. Eng. J. 488, 151124.
+Liao, Y.C., Lo, Y.C., Ho, N.H.E., Lee, D.J., Ng, I.S. and Chang, J.S., 2024. Antibacterial effects against pathogens of Vibrio genus using 5-aminolevulinic acid produced from recombinant Escherichia coli. J. Taiwan Inst. Chem. Eng. 160, 105244.
+- Ho, N.H.E, Yu C.H., Chen, Y.T., Ng, I.S., Chang, J.S., 2023. Chloroplast Transit Peptide Identification & Design by Generative AI for Microalgae Chlamydomonas reinhardtii. 70th Taiwan Inst. Chem. Eng. OC-II-7-4.
+- Ho, N.H.E., Effendi, S.S.W., Ting, W.W., Yi, Y.C., Yu, J.Y., Chang, J.S. and Ng, I.S., 2023. Heterologous expression and characterization of Aquabacterium parvum lipase, a close relative of Ideonella sakaiensis PETase in Escherichia coli. Biochemical Engineering Journal, 197, p.108985.
+
+Oceanography
+- Gu, B., Liu, J., Cheung, S., Ho, N.H.E., Tan, Y. and Xia, X., 2022. Insights into prokaryotic community and its potential functions in nitrogen metabolism in the Bay of Bengal, a pronounced oxygen minimum zone. Microbiology Spectrum, 10(3), pp.e00892-21.
+- Xu, Z., Cheung, S., Endo, H., Xia, X., Wu, W., Chen, B., Ho, N.H.E., Suzuki, K., Li, M. and Liu, H., 2022. Disentangling the ecological processes shaping the latitudinal pattern of phytoplankton communities in the Pacific Ocean. Msystems, 7(1), pp.e01203-21.
+- Ho, N.H.E. and Not, C., 2019. Selective accumulation of plastic debris at the breaking wave area of coastal waters. Environmental Pollution, 245, pp.702-710.
+
+
+Content of "Skills"
+
+Coding
+- pytorch / tensorflow (>5 years)
+- C++ >1 year (Expect repo available by 2027)
+- VS Code + Coding Agent
+- For jit's sake, looking forward to jax
+- Looking forward to Rust
+
+Molecular Simulations
+- Gromacs (>3 years)
+- VMD / pymol
+- Modeller
+- RDKit
+- Vina / DINC
+
+Analytical Chemistry
+- N2 adsorption test + BET analysis
+- FT-IR
+- XPS
+- SEM / TEM
+
+Content of "Photo"
+
+Penghu_Labmates.jpg
+Went to conference at Penghu Island in 2024 and we enjoyed a hot summer trip.
+
+
+For Repo, just direct to https://github.com/Ernest-NH-Ho

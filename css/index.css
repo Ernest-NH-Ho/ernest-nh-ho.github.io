@@ -1,0 +1,10 @@
+.profile { display: grid; grid-template-columns: 210px 1fr; gap: 42px; align-items: start; margin-bottom: 35px; }
+.portrait { display: block; width: 210px; max-width: 100%; height: auto; }
+.profile-info { padding-top: 6px; }
+.profile-info h1 { margin-bottom: 8px; }
+.profile-info p { margin-bottom: 8px; }
+.profile-info .availability { margin-top: 26px; }
+blockquote { margin: 0 0 25px; }
+blockquote p { font-style: italic; margin-bottom: 4px; }
+blockquote footer { color: #555; }
+.about-copy { border-top: 1px solid #e8dfe6; padding-top: 28px; }
