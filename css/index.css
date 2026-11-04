@@ -1,7 +1,7 @@
-.profile { display: grid; grid-template-columns: minmax(0, 1fr) 217px; gap: 42px; align-items: start; }
-.portrait { display: block; width: 217px; max-width: 100%; height: auto; }
+.profile { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 42px; align-items: start; }
+.portrait { display: block; max-width: 100%; justify-self: end; height: auto; }
 .profile-info .availability { margin-bottom: 26px; }
 @media (max-width: 600px) {
   .profile { grid-template-columns: minmax(0, 1fr); gap: 22px; }
-  .portrait { width: 180px; justify-self: end; }
+  .portrait { justify-self: end; }
 }
