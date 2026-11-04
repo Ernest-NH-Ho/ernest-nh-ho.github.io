@@ -1,0 +1,8 @@
+.award-list { list-style: none; margin: 0; padding: 0; }
+.award-list li { margin-bottom: 30px; }
+.award-heading { font-size: 1.2em; display: flex; justify-content: space-between; align-items: baseline; gap: 8px 28px; }
+.award-date { font-size: 1em; flex-shrink: 0; white-space: nowrap; }
+.award-list p { margin: 4px 0 0; }
+@media (max-width: 600px) {
+  .award-heading { flex-direction: column; gap: 4px; }
+}
