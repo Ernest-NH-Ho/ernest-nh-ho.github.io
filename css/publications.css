@@ -6,3 +6,4 @@
 blockquote { margin: 0 0 25px; }
 blockquote p { font-style: italic; margin-bottom: 4px; }
 blockquote footer { color: #555; }
+.publication-list .author-name { color: #ff3b3b; font-weight: bold; }

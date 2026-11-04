@@ -2,3 +2,9 @@
 .skill-section h2 { margin-bottom: 10px; }
 ul { padding-left: 22px; }
 .skill-section li { margin-bottom: 7px; }
+
+/* A shared tab stop keeps experience aligned across skill sections. */
+.skill-experience { display: inline-grid; grid-template-columns: 12em minmax(0, 1fr); column-gap: 1em; width: 100%; vertical-align: top; }
+@media (max-width: 600px) {
+  .skill-experience { grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); }
+}
